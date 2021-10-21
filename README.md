@@ -9,7 +9,7 @@ informações com outras bases.
 
 ## Como usar
 
-Para iniciar, configure seu ambiente virtual Python 3 e execute:
+Para iniciar, [configure seu ambiente virtual Python 3](https://docs.python.org/pt-br/3/tutorial/venv.html#creating-virtual-environments) e execute:
 
 ```sh
 pip install -r requirements.txt
