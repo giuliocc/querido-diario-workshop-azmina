@@ -13,5 +13,5 @@ Para iniciar, [configure seu ambiente virtual Python 3](https://docs.python.org/
 
 ```sh
 pip install -r requirements.txt
-jupyter workshop.ipynb
+jupyter notebook workshop.ipynb
 ```
